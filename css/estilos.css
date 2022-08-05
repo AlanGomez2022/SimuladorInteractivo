@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+.cont{
+    display: fecl;
+}
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../img/evento.jpg);
+    background-size:cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.cont{  
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding: 50px;
+    border-radius: 100px;
+    background-color: rgba(1,11, 133, 0.2)
+}
+h1{
+    font-size: 65px;
+}
+h2{
+    font-size: 30px;
+}
